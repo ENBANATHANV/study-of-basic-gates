@@ -1,7 +1,6 @@
-### study-of-basic-gates
-#### Name:Enbanathan V
-#### Reg No:24001750
-#### Experiment-1:Study of logic gates
+#### NAME:Enbanathan V
+#### REG NO:24001750
+#### EXPERIMENT 1:Study of logic gates
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
