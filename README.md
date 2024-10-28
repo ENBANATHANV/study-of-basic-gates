@@ -84,12 +84,10 @@ Y= A⊕B
 ![Screenshot-2023-07-20-205854](https://github.com/user-attachments/assets/d78b570a-5c9a-4493-aef6-e87a5b4805c0)
 
 
-### RTL REALIZATION OUTPUT:
+### RTL OUTPUT:
 
 ![WhatsApp Image 2024-10-28 at 11 24 30 AM](https://github.com/user-attachments/assets/112c9f9f-b706-414e-997b-3e97c62bb1d9)
 
-
-### RTL
 
 ### OUTPUT WAVEFORM:
 
