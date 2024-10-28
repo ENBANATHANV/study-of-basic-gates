@@ -1,6 +1,6 @@
-#### NAME:Enbanathan V
-#### REG NO:24001750
-#### EXPERIMENT 1:Study of logic gates
+#### NAME : Enbanathan V
+#### REG NO : 24001750
+#### EXPERIMENT 1 : Study of logic gates
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -87,11 +87,13 @@ Y= A⊕B
 
 
 **RTL realization Output:** 
-![Screenshot (6)](https://github.com/user-attachments/assets/4faf064e-0e47-4114-b895-acd4161b26ee)
+![WhatsApp Image 2024-10-28 at 11 24 40 AM](https://github.com/user-attachments/assets/68237c6e-902d-402b-b772-300071566943)
+
 
 
 **RTL**
-![Screenshot (4)](https://github.com/user-attachments/assets/c67f8e69-71bc-416d-b9ee-1e7d2f1a794c)
+
+![Uploading WhatsApp Image 2024-10-28 at 11.24.30 AM.jpeg…]()
 
 
 **Result:**
