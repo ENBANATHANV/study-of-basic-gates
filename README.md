@@ -85,7 +85,8 @@ Y= A⊕B
 
 
 **RTL realization Output:** 
-![Uploading WhatsApp Image 2024-10-28 at 11.24.30 AM.jpeg…]()
+
+![WhatsApp Image 2024-10-28 at 11 24 30 AM](https://github.com/user-attachments/assets/112c9f9f-b706-414e-997b-3e97c62bb1d9)
 
 
 **RTL**
